@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497681575 source:c:\users\gaziz\desktop\dfs\main.cpp
+	<iostream>
+	<deque>
+	<assert.h>
+	<stdio.h>
+
