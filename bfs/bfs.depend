@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497680856 source:c:\users\gaziz\desktop\bfs\main.cpp
+	<iostream>
+	<queue>
+	<assert.h>
+	<stdio.h>
+
